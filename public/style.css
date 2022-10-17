@@ -1,1 +1,14 @@
 /* Add custom styles to display the fruits */
+/* Add custom styles to display the fruits */
+#body{
+    background-color: rgb(19, 1, 39);
+    margin-left: 150px;
+    
+   
+}
+#heading{
+    margin-top: 100px;
+    margin-left: 350px;
+    color: rgba(217, 204, 204, 0.944);
+    font-family: 'Times New Roman', 'Times', 'serif';
+}
